@@ -1,6 +1,6 @@
 # oai-5g-useransim
 
-**Pre-requisite:** 5G core is already running
+**Pre-requisite:** OAI 5G core is already running
 
 Build UERANSIM docker image
 
